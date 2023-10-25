@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vcautela
+- 👋 Hi, I’m Victor Cautela 
 - 👀 I’m interested in coding, dev, data science, IA, good food, surfing and explore nature!
 - 🌱 I’m currently learning Python, Html, CSS and SQL
 - 💞️ I’m looking to collaborate on a Tech Team, whether in data or in dev
