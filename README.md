@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Victor Cautela 
-- 👀 I’m interested in coding, dev, data science, IA, good food, surfing and explore nature!
-- 🌱 I’m currently learning Python, Html, CSS and SQL
-- 💞️ I’m looking to collaborate on a Tech Team, whether in data or in dev
-- 📫 How to reach me https://www.linkedin.com/in/victor-cautela/
+- 👀 I’m passionate about coding, development, data science, IA, good food, surfing and explore nature!
+- 🌱 Currently I'm honing my skills in Python, SQL, HTML and CSS.
+- 💞️ I'm seeking opportunities to collaborate with a tech team, whether in data or development.
+- 📫 You can reach out to me on LinkedIn: [Victor Cautela] -> https://www.linkedin.com/in/victor-cautela/
 
 <!---
 vcautela/vcautela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
